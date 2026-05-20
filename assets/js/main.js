@@ -62,7 +62,9 @@ if (sections.length) {
     updateActiveLink();
   }
 
-  const initialSection = document.querySelector(window.location.hash) || sections[0];
+  const initialSection = window.location.hash
+    ? document.querySelector(window.location.hash) || sections[0]
+    : sections[0];
   setActiveLink(initialSection.id);
 }
 
@@ -118,3 +120,17 @@ document.querySelectorAll(".fade-in").forEach((element) => {
     element.classList.add("is-visible");
   }
 });
+
+const revealVisibleElements = () => {
+  document.querySelectorAll(".fade-in:not(.is-visible)").forEach((element) => {
+    const rect = element.getBoundingClientRect();
+    if (rect.top < window.innerHeight + 80 && rect.bottom > -80) {
+      element.classList.add("is-visible");
+    }
+  });
+};
+
+window.addEventListener("scroll", revealVisibleElements, { passive: true });
+window.addEventListener("resize", revealVisibleElements);
+requestAnimationFrame(revealVisibleElements);
+setTimeout(revealVisibleElements, 300);
