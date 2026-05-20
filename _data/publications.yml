@@ -1,0 +1,31 @@
+published:
+  - key: liu2026diversity
+    authors: "Jinyu Liu, Jie Wang, Qinghua Gao, Xuanheng Li, Miao Pan, Yuguang Fang"
+    title: "Diversity Enhanced Robust Device-Free Vital Signs Monitoring Using mmWave Signals"
+    venue: "IEEE Transactions on Mobile Computing"
+    status: "Accepted"
+    notes:
+      - "First author"
+      - "SCI JCR Q1"
+      - "IF 7.9"
+    links: {}
+  - key: fan2020frequency
+    authors: "Lei Fan, Guoqing Qi, Jinyu Liu, Jiyu Jin, Li Liu, Jun Xing"
+    title: "Frequency Estimator of Sinusoid by Interpolated DFT Method Based on Maximum Sidelobe Decay Windows"
+    venue: "Signal Processing"
+    notes:
+      - "Third author"
+      - "SCI JCR Q1"
+      - "IF 4.66"
+    links: {}
+under_review:
+  - key: liu2026explainable
+    authors: "Jinyu Liu, Jie Wang, Qinghua Gao, Luoyan Zhu, Xianhao Chen, Miao Pan, Yuguang Fang"
+    title: "Contact-Free Blood Pressure Estimation Based on Pulse Wave Velocity Using mmWave Signal"
+    venue: "IEEE Internet of Things Journal"
+    status: "Under Review"
+    notes:
+      - "First author"
+      - "SCI JCR Q1"
+      - "IF 10.6"
+    links: {}
