@@ -8,7 +8,8 @@ published:
       - "First author"
       - "SCI JCR Q1"
       - "IF 7.9"
-    links: {}
+    links:
+      pdf: "https://ieeexplore.ieee.org/document/10571578"
   - key: fan2020frequency
     authors: "Lei Fan, Guoqing Qi, Jinyu Liu, Jiyu Jin, Li Liu, Jun Xing"
     title: "Frequency Estimator of Sinusoid by Interpolated DFT Method Based on Maximum Sidelobe Decay Windows"
@@ -17,7 +18,8 @@ published:
       - "Third author"
       - "SCI JCR Q1"
       - "IF 4.66"
-    links: {}
+    links:
+      pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0165168421001638"
 under_review:
   - key: liu2026explainable
     authors: "Jinyu Liu, Jie Wang, Qinghua Gao, Luoyan Zhu, Xianhao Chen, Miao Pan, Yuguang Fang"

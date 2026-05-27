@@ -16,7 +16,7 @@ https://jinyu1024.github.io/
 ├── assets/
 │   ├── css/styles.css
 │   ├── js/main.js
-│   └── img/profile.jpg
+│   └── img/profile.png
 ├── _data/
 │   ├── publications.yml
 │   └── news.yml
@@ -30,7 +30,7 @@ https://jinyu1024.github.io/
 Place your profile image at:
 
 ```text
-assets/img/profile.jpg
+assets/img/profile.png
 ```
 
 If the file is missing, the homepage automatically shows a clean placeholder.

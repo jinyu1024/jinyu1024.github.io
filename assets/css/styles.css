@@ -88,8 +88,9 @@ button {
 
 .brand-mark {
   display: grid;
-  width: 46px;
+  min-width: 46px;
   height: 46px;
+  padding: 0 8px;
   place-items: center;
   color: #fff;
   background: var(--primary);
@@ -573,12 +574,15 @@ h3 {
 
 .pub-tags {
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  flex-wrap: nowrap;
   justify-content: flex-end;
+  align-items: flex-end;
   gap: 8px;
 }
 
-.pub-tags span {
+.pub-tags span,
+.pub-tags a {
   display: inline-flex;
   min-height: 32px;
   align-items: center;
@@ -596,6 +600,12 @@ h3 {
 .pub-tags .pdf-tag {
   color: var(--primary);
   border-color: #c8def8;
+}
+
+.pub-tags a:hover {
+  background: #fff;
+  border-color: #9cc8f5;
+  color: var(--secondary);
 }
 
 .chinese-title {
@@ -902,6 +912,7 @@ h3 {
 
   .pub-tags {
     grid-column: 2;
+    align-items: flex-start;
     justify-content: flex-start;
   }
 
