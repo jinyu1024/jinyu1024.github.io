@@ -1,4 +1,15 @@
 published:
+  - key: liu2026explainable
+    authors: "Jinyu Liu, Jie Wang, Qinghua Gao, Luoyan Zhu, Xianhao Chen, Miao Pan, Yuguang Fang"
+    title: "Contact-Free Blood Pressure Estimation Based on Pulse Wave Velocity Using mmWave Signal"
+    venue: "IEEE Internet of Things Journal"
+    status: "Accepted"
+    notes:
+      - "First author"
+      - "SCI JCR Q1"
+      - "IF 10.6"
+    links:
+      pdf: "https://ieeexplore.ieee.org/document/11626859"
   - key: liu2026diversity
     authors: "Jinyu Liu, Jie Wang, Qinghua Gao, Xuanheng Li, Miao Pan, Yuguang Fang"
     title: "Diversity Enhanced Robust Device-Free Vital Signs Monitoring Using mmWave Signals"
@@ -20,14 +31,3 @@ published:
       - "IF 4.66"
     links:
       pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0165168421001638"
-under_review:
-  - key: liu2026explainable
-    authors: "Jinyu Liu, Jie Wang, Qinghua Gao, Luoyan Zhu, Xianhao Chen, Miao Pan, Yuguang Fang"
-    title: "Contact-Free Blood Pressure Estimation Based on Pulse Wave Velocity Using mmWave Signal"
-    venue: "IEEE Internet of Things Journal"
-    status: "Under Review"
-    notes:
-      - "First author"
-      - "SCI JCR Q1"
-      - "IF 10.6"
-    links: {}

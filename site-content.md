@@ -97,6 +97,15 @@ News
 
 ### News Item 1
 
+- Date shown: 2026-10
+- Date machine value: 2026-10
+- Image path: assets/img/news-cast-young-talent-2026.jpg
+- Image alt text: Young Elite Scientists Sponsorship Program by CAST – Doctoral Student Special Plan
+- Placeholder text: CAST Program
+- Description: Selected for the Young Elite Scientists Sponsorship Program by CAST – Doctoral Student Special Plan.
+
+### News Item 2
+
 - Date shown: 2025-07-26
 - Date machine value: 2025-07-26
 - Image path: assets/img/news-ccf-sensing-forum.jpg
@@ -104,7 +113,7 @@ News
 - Placeholder text: CCF Forum
 - Description: Attended the 6th CCF Frontier Forum on Ubiquitous Sensing in Nanjing.
 
-### News Item 2
+### News Item 3
 
 - Date shown: 2025-07-12 to 2025-07-14
 - Date machine value: 2025-07-12
@@ -113,7 +122,7 @@ News
 - Placeholder text: RAFC 2025
 - Description: Attended the 2nd Radar Academic Frontier Conference (RAFC 2025).
 
-### News Item 3
+### News Item 4
 
 - Date shown: 2024-12
 - Date machine value: 2024-12
@@ -140,6 +149,19 @@ Published / Accepted
 #### Publication 1
 
 - Number: 1
+- Abbreviation: IoTJ
+- Title: Contact-Free Blood Pressure Estimation Based on Pulse Wave Velocity Using mmWave Signal
+- Authors: Jinyu Liu, Jie Wang, Qinghua Gao, Luoyan Zhu, Xianhao Chen, Miao Pan, Yuguang Fang
+- Highlighted author: Jinyu Liu
+- Venue: IEEE Internet of Things Journal, Accepted
+- Tag: First author
+- Tag: IF 10.6
+- Tag: PDF
+- PDF URL: https://ieeexplore.ieee.org/document/11626859
+
+#### Publication 2
+
+- Number: 2
 - Abbreviation: TMC
 - Title: Diversity Enhanced Robust Device-Free Vital Signs Monitoring Using mmWave Signals
 - Authors: Jinyu Liu, Jie Wang, Qinghua Gao, Xuanheng Li, Miao Pan, Yuguang Fang
@@ -148,10 +170,11 @@ Published / Accepted
 - Tag: First author
 - Tag: IF 7.9
 - Tag: PDF
+- PDF URL: https://ieeexplore.ieee.org/document/10571578
 
-#### Publication 2
+#### Publication 3
 
-- Number: 2
+- Number: 3
 - Abbreviation: SP
 - Title: Frequency Estimator of Sinusoid by Interpolated DFT Method Based on Maximum Sidelobe Decay Windows
 - Authors: Lei Fan, Guoqing Qi, Jinyu Liu, Jiyu Jin, Li Liu, Jun Xing
@@ -159,22 +182,7 @@ Published / Accepted
 - Venue: Signal Processing
 - Tag: IF 4.66
 - Tag: PDF
-
-### Group 2
-
-Under Review
-
-#### Publication 3
-
-- Number: 3
-- Abbreviation: IoTJ
-- Title: Contact-Free Blood Pressure Estimation Based on Pulse Wave Velocity Using mmWave Signal
-- Authors: Jinyu Liu, Jie Wang, Qinghua Gao, Luoyan Zhu, Xianhao Chen, Miao Pan, Yuguang Fang
-- Highlighted author: Jinyu Liu
-- Venue: IEEE Internet of Things Journal, Under Review
-- Tag: First author
-- Tag: IF 10.6
-- Tag: PDF
+- PDF URL: https://www.sciencedirect.com/science/article/abs/pii/S0165168421001638
 
 ## 7. Patents
 
@@ -202,6 +210,7 @@ Honors and Competitions
 
 ### Academic Honors
 
+- 2026 - Young Elite Scientists Sponsorship Program by CAST – Doctoral Student Special Plan
 - 2020, 2024 - National Scholarship (Twice)
 - 2019-2022 - First-Class Undergraduate Scholarship (Four times)
 - 2023-2025 - First-Class Graduate Scholarship (Three times)

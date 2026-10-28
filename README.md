@@ -54,6 +54,7 @@ When adding PDF links, replace the `PDF` tag in `index.html` with a real link.
 Edit the News section in `index.html`. Put news photos at these paths:
 
 ```text
+assets/img/news-cast-young-talent-2026.jpg
 assets/img/news-ccf-sensing-forum.jpg
 assets/img/news-rafc-2025.jpg
 assets/img/news-national-scholarship.jpg
